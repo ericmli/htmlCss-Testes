@@ -1,0 +1,92 @@
+html {
+
+    background-color: white;
+
+}
+
+.body1 {
+
+    margin: 0;
+    padding: 0;
+
+}
+
+* {
+
+    font-family: Georgia, Times, 'Times New Roman';
+
+
+}
+
+
+/* Menu fixo, a cor e posição */
+ul {
+
+    background: black;
+    width: 100%;
+    height: 60px;
+    margin-top: 0px;
+    padding-right: 5px;
+    position: fixed;
+
+}
+
+/* Ordem da lista do menu*/
+li {
+
+    position: relative;
+    list-style: none;
+    margin: 0;
+    display: inline;
+    letter-spacing: 2px;
+    line-height: 50px;
+    margin: 140px;
+}
+
+/* Texto do menu*/
+li a {
+
+
+    padding: 5px;
+    background: black;
+    text-decoration: none;
+    color: white;
+    text-shadow: 2px 1px rgb(75, 75, 75);
+    position: fixed;
+
+}
+
+#logo {
+
+    width: 40px;
+    position: fixed;
+    top: 5px;
+
+}
+
+#imgp {
+
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+video {
+
+
+    width: 1200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+.espacovideo {
+
+    background: black;
+
+}
